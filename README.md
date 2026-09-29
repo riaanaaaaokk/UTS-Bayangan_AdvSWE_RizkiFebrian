@@ -47,16 +47,13 @@ Sistem ini dikembangkan sebagai layanan **Web RESTful API** menggunakan Spring B
 ## 📸 Tampilan Antarmuka Web (Visual UI)
 
 ### 1. Halama Utama (Dashboard Form Input)
-![Dashboard Utama](<img width="708" height="390" alt="image" src="https://github.com/user-attachments/assets/001726ea-89bc-4b6f-b6a2-4fc165d54c69" />
-)
+<img width="708" height="390" alt="image" src="https://github.com/user-attachments/assets/001726ea-89bc-4b6f-b6a2-4fc165d54c69" />
 
 ### 2. Halaman Rincian Gaji John Travolta
-![Hasil Gaji](<img width="678" height="340" alt="image" src="https://github.com/user-attachments/assets/a414595e-4367-418f-adee-33fb6637d392" />
-)
+<img width="678" height="340" alt="image" src="https://github.com/user-attachments/assets/a414595e-4367-418f-adee-33fb6637d392" />
 
 ### 3. Halaman Hasil Analisis Persamaan Kuadrat
-![Hasil Kuadrat](<img width="692" height="363" alt="image" src="https://github.com/user-attachments/assets/774d3f75-7e29-4cd1-b977-e7469e3c6f72" />
-).
+<img width="692" height="363" alt="image" src="https://github.com/user-attachments/assets/774d3f75-7e29-4cd1-b977-e7469e3c6f72" />
 
 ---
 
